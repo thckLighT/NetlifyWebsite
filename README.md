@@ -1,2 +1,2 @@
 # NetlifyWebsite
-Website hosted by Netlify
+Website hosted by Netlify for testing / having fun
